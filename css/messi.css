@@ -1,0 +1,119 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+    background-image: url(../images/back.jpg);
+    height: 70px;
+    color: aliceblue;
+
+}
+.p{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ms Madi', cursive;
+color: aliceblue;
+font-size: 30px;
+}
+.contact{
+    margin: -40px 0px 0px 150px;
+}
+.site{
+    margin: -17px 0px 0px 250px;
+}
+.book{
+    margin: -17px 0px 0px 350px;
+}
+.div2{
+    color: rgb(34, 111, 34);
+}
+.candy{
+    margin: 0px 0px 0px 20px;
+}
+.bon{
+    margin: -18px 0px 0px 100px;
+}
+.chewy{
+    margin: -18px 0px 0px 200px;
+
+}
+.choclates{
+    margin: -18px 0px 0px 390px;
+}
+.cough{
+    margin: -18px 0px 0px 510px;
+}
+.img2{
+    margin: 0px 0px 0px 30px;
+}
+.img3{
+    margin: 0px 0px 0px 30px;
+}
+.div3{
+    background-image: url(../images/back.jpg);
+    height: 800px;
+    color: aliceblue;
+}
+.img4{
+    margin: 20px 0px 0px 200px;
+}
+.img5{
+    margin: 0px 0px 0px 20px;
+}
+.p2{
+    font-family: 'Pacifico', cursive;
+font-size: 30px;
+}
+.diva{
+    margin: 0px 0px 0px 20px;
+}
+.divb{
+    margin: -165px 0px 0px 300px; 
+}
+.divc{
+    margin: -165px 0px 0px 600px;
+}
+.divd{
+    margin: -165px 0px 0px 900px;
+}
+.p3{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;  
+}
+.dive{
+    margin: 0px 0px 0px 20px;
+}
+.divf{
+    margin: -165px 0px 0px 300px;
+}
+.divg{
+    margin: -165px 0px 0px 600px; 
+}
+.divh{
+    margin: -165px 0px 0px 900px;
+}
+.div4{
+    color: darkmagenta;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Ms Madi', cursive;
+font-family: 'Pacifico', cursive;
+font-size: 20px;
+}
+.p4{
+    margin: 0px 0px 0px 200px;
+}
+.p5{
+    margin: -25px 0px 0px 390px;
+}
+.p6{
+    margin: -25px 0px 0px 550px;
+}
+.p7{
+    margin: -26px 0px 0px 700px;
+}
+.links{
+    list-style: none;
+}
+.links2{
+list-style: none;
+}
